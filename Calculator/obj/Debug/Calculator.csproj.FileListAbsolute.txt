@@ -1,0 +1,7 @@
+C:\Users\agoda\OneDrive\Desktop\C# Projects\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\agoda\OneDrive\Desktop\C# Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\agoda\OneDrive\Desktop\C# Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\agoda\OneDrive\Desktop\C# Projects\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\agoda\OneDrive\Desktop\C# Projects\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\agoda\OneDrive\Desktop\C# Projects\Calculator\obj\Debug\Calculator.exe
+C:\Users\agoda\OneDrive\Desktop\C# Projects\Calculator\obj\Debug\Calculator.pdb
