@@ -59,9 +59,6 @@ namespace Calculator
 
             }
                 
-
-
-
             Console.ReadKey();
         
         }
